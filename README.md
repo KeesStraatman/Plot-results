@@ -6,7 +6,7 @@ This macro allows the user to plot 2 results parameters found in the results tab
 
 ![Menu](Menu.png)
 
-![Area-Circ graph](Area-Circ graph.png)
+![Area-Circ-graph](Area-Circ-graph.png)
 
 ## Download code
 
